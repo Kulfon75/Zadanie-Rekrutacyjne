@@ -1,0 +1,32 @@
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\Zad Profisys.exe.config
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\Zad Profisys.exe
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\Zad Profisys.pdb
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.AssemblyReference.cache
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad_Profisys.Form1.resources
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad_Profisys.Properties.Resources.resources
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.GenerateResource.cache
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.CoreCompileInputs.cache
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.exe
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.pdb
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Buffers.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Memory.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Text.Json.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.ValueTuple.dll
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Buffers.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Memory.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Text.Json.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.ValueTuple.xml
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.CopyComplete
+C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad_Profisys.Form2.resources
