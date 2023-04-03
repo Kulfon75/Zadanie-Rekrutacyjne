@@ -1,13 +1,7 @@
 ﻿using System;
 using Oracle.ManagedDataAccess.Client;
-using Oracle.ManagedDataAccess.Types;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Security;
 using System.IO;
@@ -19,9 +13,9 @@ namespace Zad_Profisys
         private string ConnectionString;
         private OracleConnection con;
         private OracleCommand cmd;
-        private bool connectionStatus = false;
-        private bool fileOk = false;
-        private bool errorInSaving = false;
+        private bool connectionStatus = false; //flag whitch tell if program is connected to database
+        private bool fileOk = false; //flag which tell if file is loaded
+        private bool errorInSaving = false; //plag which preventing endless warning when loaded file is compatibile with database
         public Form1()
         {
             InitializeComponent();

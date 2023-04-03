@@ -30,3 +30,35 @@ C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.Threadin
 C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\bin\Debug\System.ValueTuple.xml
 C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.CopyComplete
 C:\Users\Kulfon\source\repos\Zad Profisys\Zad Profisys\obj\Debug\Zad_Profisys.Form2.resources
+D:\zadanie profisys\Zad Profisys\bin\Debug\Zad Profisys.exe.config
+D:\zadanie profisys\Zad Profisys\bin\Debug\Zad Profisys.exe
+D:\zadanie profisys\Zad Profisys\bin\Debug\Zad Profisys.pdb
+D:\zadanie profisys\Zad Profisys\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Buffers.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Memory.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Numerics.Vectors.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Text.Encodings.Web.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Text.Json.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.ValueTuple.dll
+D:\zadanie profisys\Zad Profisys\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Buffers.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Memory.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Numerics.Vectors.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Text.Encodings.Web.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Text.Json.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\zadanie profisys\Zad Profisys\bin\Debug\System.ValueTuple.xml
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.AssemblyReference.cache
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.SuggestedBindingRedirects.cache
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad_Profisys.Form1.resources
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad_Profisys.Form2.resources
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad_Profisys.Properties.Resources.resources
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.GenerateResource.cache
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.CoreCompileInputs.cache
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.csproj.CopyComplete
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.exe
+D:\zadanie profisys\Zad Profisys\obj\Debug\Zad Profisys.pdb
