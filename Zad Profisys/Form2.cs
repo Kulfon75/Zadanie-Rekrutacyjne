@@ -83,7 +83,7 @@ namespace Zad_Profisys
             if (check)
             {
                 sqlSelect = sqlSelect.Remove(sqlSelect.Length - 2, 2);
-                sqlSelect += " from positions order by ";
+                sqlSelect += $" from positions where document = '{orderId}' order by ";
                 switch (orderBy.Text)
                 {
                     case "Id":
